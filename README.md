@@ -8,7 +8,11 @@ eski ve sade QRlara veda çünkü vol2 bu döngüyü kırıyor
 
 bu projeyi kullanabilmek için python 3.10.+ üstü sürüm kurmanız gerekmektedir
 
-Projenin amacı:Linklerinizi görselli QR koda çevirir
+Projenin amacı:Linklerinizi görselli QR koda çevirir 
+
+görsellerinizi veya herhangi birşeyinizi eklentisi neyse to url diyerek googledan url haline getirebilirsniz
+
+ya da ben güvenmiyorum öylesi şeylere derseniz dosyanızı drive atın->paylaş->bağlantı kopyala ile url haline getirebilirsiniz.
 
 destek olmayı unutmayın: https://www.youtube.com/@S_P1RE
 
