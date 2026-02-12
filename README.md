@@ -1,6 +1,6 @@
 # QR-Gen-vol2
 Görselli QR gen
-vol 1 den farklı olarak daha stabilizedir
+vol 1 den farklı olarak daha stabilizedir ve görsellidir.
 
 eski ve sade QRlara veda çünkü vol2 bu döngüyü kırıyor
 
